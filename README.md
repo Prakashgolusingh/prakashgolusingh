@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on: Something which will make me feels i' m good coder<br>👯 I’m looking to collaborate on : Anything which include coding and fun<br>🤝 I’m looking for help with : Someone who can do my repeating work<br>🌱 I’m currently learning : How to create amazing websites<br>💬 Ask me about : Coding and Cricket<br>⚡ Fun fact  : I want to start my coding life again
+🔭 Currenly pursuing my MCA from nitc.</br>
+🌱I like to introduce myself as a computer science enthusiast, .</br>
+🌱 Well as a CS student i like everything related to CS world, but till now i have gained pretty much good knowledge in DSA, Web    development and Data science field, since I'm good at math and statistics, along with core CS concepts.</br>
+🌱 I have done my graduation in Physics(hons), mathematics and statistics. And i like science too.</br>
+🌱 I'm intrested in both software development as well as creating ML models.</br>
+🌱 Along with these, I'm really a good in sports, i have won my medels and certificates in different sports like cricket, football, volleyball,   etc.</br>
+🌱 i really like to help others especially related to my domain.</br>
+🌱 Overall i feel i'm not excellent in any specific field, but i'm more than good in both (either study or sport).</br>
 
 
 ## 🌐 Socials:
