@@ -3,11 +3,11 @@
 🌱I like to introduce myself as a computer science enthusiast, .</br>
 🌱 Well as a CS student i like everything related to CS world, but till now i have gained pretty much good knowledge in DSA, Web    development and Data science field, since I'm good at math and statistics, along with core CS concepts.</br>
 🌱 I have done my graduation in Physics(hons), mathematics and statistics. And i like science too.</br>
-🌱 I'm intrested in both software development as well as creating ML models.</br>
-🌱 Along with these, I'm really a good in sports, i have won my medels and certificates in different sports like cricket, football, volleyball,   etc.</br>
+🌱 I'm intrested in both software development as well as creating Machine learning.</br>
+🌱 Along with these, I'm really a good at sports, i have won my medels and certificates in different sports like cricket, football, volleyball,   etc.</br>
 🌱 i really like to help others especially related to my domain.</br>
-🌱 Overall i feel i'm not excellent in any specific field, but i'm more than good in both (either study or sport).</br>
-
+🌱 In my accademic life till now, i'm more than good in both (either study or sport).</br>
+🌱 I really enjoy creating software products that people going to use. I derive great pleasure from coding and brainstorming technical solutions for software. I love working on challenging projects, constantly learning about new technologies, may be this line feels show off but it's true to some extend.</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh.prakash2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-singh-bb6a99174) 
