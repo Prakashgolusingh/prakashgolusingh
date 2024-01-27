@@ -4,10 +4,10 @@
 🌱 Well as a CS student i like everything related to CS world, but till now i have gained pretty much good knowledge in DSA, Web    development and Data science field, since I'm good at math and statistics, along with core CS concepts.</br>
 🌱 I have done my graduation in Physics(hons), mathematics and statistics. And i like science too.</br>
 🌱 I'm intrested in both software development as well as creating ML models, but if i need to choose one i would like to prefer development over ml</br>
-🌱 Along with these, I'm really a good at sports, i have won my medels and certificates in different sports like cricket, football, volleyball,   etc.</br>
-🌱 I always try to make balance between study and sport.</br>
 🌱 i really like to help others especially related to my domain.</br>
 🌱 I really enjoy creating software products that people going to use. I derive great pleasure from coding and brainstorming technical solutions for software. I love working on challenging projects, constantly learning about new technologies, may be this line feels a little bit praise yourself but its true to some extend.</br>
+🌱 Along with these, I'm really a good at sports, i have won my medels and certificates in different sports like cricket, football, volleyball,   etc. and always try to find some time to play in between work</br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh.prakash2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-singh-bb6a99174) 
