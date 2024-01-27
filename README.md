@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currenly pursuing my MCA from nitc.</br>
+🔭 Currenly pursuing my MCA from nitc and done my graduation in Physics, Math, Statistics from BHU.</br>
 🌱I like to introduce myself as a computer science enthusiast, .</br>
 🌱 Well as a CS student i like everything related to CS world, but till now i have gained pretty much good knowledge in DSA, Web    development and Data science field, since I'm good at math and statistics, along with core CS concepts.</br>
 🌱 I have done my graduation in Physics(hons), mathematics and statistics. And i like science too.</br>
