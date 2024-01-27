@@ -5,7 +5,7 @@
 🌱 I have done my graduation in Physics(hons), mathematics and statistics. And i like science too.</br>
 🌱 I'm intrested in both software development as well as creating ML models, but if i need to choose one i would like to prefer development over ml</br>
 🌱 i really like to help others especially related to my domain.</br>
-🌱 I really enjoy creating software products that people going to use. I derive great pleasure from coding and brainstorming technical solutions for software. I love working on challenging projects, constantly learning about new technologies, may be this line feels a little bit praise yourself but its true to some extend.</br>
+🌱 I really enjoy creating software products that people going to use. I derive great pleasure from coding and brainstorming technical solutions for software. I love working on challenging projects, constantly learning about new technologies, may be this line feels a little bit praising yourself but its true to some extend.</br>
 🌱 Along with these, I'm really a good at sports, i have won my medels and certificates in different sports like cricket, football, volleyball,   etc. and always try to find some time to play in between work</br>
 
 
