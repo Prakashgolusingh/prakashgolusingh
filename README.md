@@ -8,6 +8,22 @@
 🌱 I really enjoy creating software products that people going to use. I derive great pleasure from coding and brainstorming technical solutions for software. I love working on challenging projects, constantly learning about new technologies, may be this line feels a little bit praising yourself but it's true to some extend.</br>
 🌱 Along with these, I'm really a good at sports, i have won my medals and certificates in different sports like cricket, football, volleyball,   etc. and always try to find some time to play in between work</br>
 
+# My Academic Life in Nitc
+My coding journey began in the first semester of my MCA program.  I started with fundamental computer science subjects like logic design and statistics. Also it was online so progress was a bit slow.
+
+In the second semester, I built my first web application, a "Hostel Management" system, using the Ruby on Rails framework.  This semester also saw me delve into Data Structures and Algorithms (DSA), MIPS assembly language, and my initial exploration of machine learning.This was the most energetic semester made new friends as well did lots of learning compare to all other semesters.
+
+The third semester focused on object-oriented programming (OOP) with a strong emphasis on both theoretical and practical aspects.  Additionally, I studied Database Management Systems (DBMS), gained practical experience with operating systems (OS) and command-line interfaces (CLI), and continued honing my coding skills.  During this time, I completed several projects:
+
+OS Project: Developed an Enigma machine program for encoding and decoding messages at the kernel level.
+OOP Lab Project: Created a desktop application called "Lost and Found" using Java.
+The fourth semester heavily emphasized data science and machine learning, complemented by courses on computer networks and the software development lifecycle.  I also created a desktop application named "NITC Travel Together" in Java.
+
+In the fifth semester, I continued to solidify my knowledge through data science and data mining practices.  I also completed a DBMS lab project and built an "Online Blood Forum" application using Flask and SQLite.
+
+Current Project:
+
+Currently, in my sixth semester, I'm actively working on a machine learning project focused on "Crop mapping using fused optical-radar dataset."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh.prakash2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-singh-bb6a99174) 
