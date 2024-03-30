@@ -9,7 +9,7 @@
 🌱 Along with these, I'm really a good at sports, i have won my medals and certificates in different sports like cricket, football, volleyball,   etc. and always try to find some time to play in between work</br>
 
 # My Academic Life in Nitc
-My coding journey began in the first semester of my MCA program.  I started with fundamental computer science subjects like logic design and statistics. Also it was online so progress was a bit slow.
+My coding journey began in the first semester of my MCA program.  I started with fundamental computer science subjects like logic design and statistics. Also this only semester was online so progress was a bit slow.
 
 In the second semester, I built my first web application, a "Hostel Management" system, using the Ruby on Rails framework.  This semester also saw me delve into Data Structures and Algorithms (DSA), MIPS assembly language, and my initial exploration of machine learning.This was the most energetic semester made new friends as well did lots of learning compare to all other semesters.
 
