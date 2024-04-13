@@ -25,6 +25,8 @@ Current Project:
 
 Currently, in my sixth semester, I'm actively working on a machine learning project focused on "Crop mapping using fused optical-radar dataset."
 
+Along with these, there were many extracurricular activities like i played many tournaments including cricket, football volleyball. And many other things... 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh.prakash2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-singh-bb6a99174) 
 
