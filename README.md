@@ -3,7 +3,7 @@
 🌱  I have gained pretty much good knowledge in DSA, Web development and Data science, along with core CS concepts like DBMS, OS, OOPS, Computer Networks.</br>
 🌱 I'm interested in both software development as well as creating ML models</br>
 🌱 I really enjoy creating software products that people going to use. I derive great pleasure from coding and brainstorming technical solutions for software. I love working on challenging projects, constantly learning about new technologies, may be this line feels a little bit praising yourself but it's true to some extend.</br>
-🌱 Along with these, I'm really a good at sports, i have won my medals and certificates in different sports like cricket, football, volleyball,   etc. and always try to find some time to play in between work</br>
+🌱 Along with these, I'm really a good at sports, i have won my medals and certificates in different sports like cricket, football, volleyball,   etc.</br>
 
 # My Academic Life in Nitc
 My coding journey began in the first semester of my MCA program.  I started with fundamental computer science subjects like logic design, Intro to programming in c, statistics, etc. Also this only semester was online so progress was a bit slow.
