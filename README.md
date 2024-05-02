@@ -8,13 +8,12 @@
 # My Academic Life in Nitc
 My coding journey began in the first semester of my MCA program.  I started with fundamental computer science subjects like logic design, Intro to programming in c, statistics, etc. This only semester was online so progress was a bit slow.
 
-In the second semester, I built my first web application, a "Hostel Management" system, using Ruby on Rails framework.  This semester also saw me delve into Data Structures and Algorithms (DSA) in c, MIPS assembly language, I was pretty good in graph theory and my initial exploration of machine learning.This was the most energetic semester made new friends as well did lots of learning compare to all other semesters.
+In the second semester(offline), I built my first web application, a "Hostel Management" system, using Ruby on Rails framework.  This semester also saw me delve into Data Structures and Algorithms (DSA) in c, MIPS assembly language, I was pretty good in graph theory and my initial exploration of machine learning.This was the most energetic semester made new friends as well did lots of learning compare to all other semesters.
 
 The third semester focused on object-oriented programming (OOP) with a strong emphasis on both theoretical and practical aspects.  Additionally, I studied Database Management Systems (DBMS), gained practical experience with operating systems (OS) and command-line interfaces (CLI), and continued honing my coding skills like DP.  During this time, I completed several projects:
-OS Project: Developed an Enigma machine program for encoding and decoding messages at the kernel level.
-OOP Lab Project: Created a desktop application called "Lost and Found" using Java.
+OS Project: Developed an Enigma machine program for encoding and decoding messages at the kernel level.OOP Lab Project: Created a desktop application called "Lost and Found" using Java.
 
-The fourth semester heavily emphasized data science and machine learning we had to build all basic ML models from scratch along with practical and theoratical labb test on each topic, complemented by courses on computer networks and the software development lifecycle.  I also created a desktop application named "NITC Travel Together" in Java. Created Object classification Application using Deep learning
+The fourth semester heavily emphasized data science and machine learning we had to build all basic ML models from scratch along with practical and theoretical lab test on each topic, complemented by courses on computer networks and the software development lifecycle.  I also created a desktop application named "NITC Travel Together" in Java. Created Object classification Application using Deep learning
 
 In the fifth semester, I continued to solidify my knowledge through data science and data mining practices.  I also completed a DBMS lab project and built an "Online Blood Forum" application using Flask(Python framework), Html, css, js and SQLite.
 
