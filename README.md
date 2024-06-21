@@ -8,7 +8,7 @@
 # My Academic Life in Nitc
 My coding journey began in the first semester of my MCA program.  I started with fundamental computer science subjects like logic design, Intro to programming in c, statistics, etc. This only semester was online so progress was a bit slow.
 
-In the second semester(offline), We have DSA in C( theory + lab) it was most challenging but also most learning semester. Got to know about trees, graphs, disjoint set, hashing as well as created algorithms and and different methods for processing and manipulation on these data structure. I built my first web application, a "Hostel Management" system, using Ruby on Rails framework, learnt more about HTML, css, JS, and bootsrap . This semester also saw me delve into  MIPS assembly language as part course computer organization and architecture, I was pretty good in graph theory and my initial exploration of machine learning started into this semester. This was the most energetic semester made new friends as well did lots of learning compare to all six semesters(it was the best semester in all).
+In the second semester(offline), We have DSA in C( theory + lab) it was most challenging but also most learning semester. Got to know about trees, graphs, disjoint set, hashing as well as created algorithms from scratch and different methods for processing and manipulation on these data structure. In this semester built my first web application, a "Hostel Management" system, using Ruby on Rails framework, learnt more about HTML, css, JS, and bootsrap my part was mostly fronted . This semester also saw me delve into  MIPS assembly language as part course computer organization and architecture, I was pretty good in graph theory and my initial exploration of machine learning started into this semester. This was the most energetic semester made new friends as well did lots of learning compare to all others coming semesters(it was the best semester in all perspective).
 
 The third semester focused on object-oriented programming (OOP) with a strong emphasis on both theoretical and practical aspects.  Additionally, I studied Database Management Systems (DBMS), gained practical experience with operating systems (OS) and command-line interfaces (CLI), and continued honing my coding skills like DP.  During this time, I completed several projects:
 OS Project: Developed an Enigma machine program for encoding and decoding messages at the kernel level.OOP Lab Project: Created a desktop application called "Lost and Found" using Java.
@@ -17,11 +17,9 @@ The fourth semester heavily emphasized data science and machine learning we had 
 
 In the fifth semester, I continued to solidify my knowledge through data science and data mining practices.  I also completed a DBMS lab project and built an "Online Blood Forum" application using Flask(Python framework), Html, css, js and SQLite.
 
-Current Project:
+sixth semester: I had to created a project on a remote sensing and machine learning related project focused on "Crop mapping using fused optical-radar dataset."
 
-Currently, in my sixth semester, I'm actively working on a remote sensing and machine learning related project focused on "Crop mapping using fused optical-radar dataset."
-
-Along with these, there were many extracurricular activities like i played many tournaments including cricket, football volleyball. And many other things... 
+Along with study, there were many extracurricular activities like i played many tournaments including cricket, football volleyball. And many other things...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh.prakash2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-singh-bb6a99174) 
